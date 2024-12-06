@@ -1,0 +1,9 @@
+name=esp32_internal_temp_sensor
+version=1.0.0
+author=Mohsen Chaghazardi
+maintainer=mohsenchaghazardi1@gmail.com
+sentence=A library to read temperature from internal temp sensor on ESP32 Chips.
+paragraph=This library wraps ESP-IDF's temperature sensor functionality into an easy-to-use Arduino library.
+category=Sensors
+url=https://github.com/MohsenCha/esp32_internal_temp_sensor
+architectures=esp32
